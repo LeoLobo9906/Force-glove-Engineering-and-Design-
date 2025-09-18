@@ -14,9 +14,9 @@ The Force Glove is a fitness technology designed to detect and correct muscle im
 
 ## Features
 
-Real-time grip force feedback via LCD display
+** Real-time grip force feedback via LCD display
 
-Wireless communication between gloves
+** Wireless communication between gloves
 
 Alerts when strength imbalance exceeds threshold
 
