@@ -18,45 +18,45 @@ The Force Glove is a fitness technology designed to detect and correct muscle im
 
 * Wireless communication between gloves
 
-Alerts when strength imbalance exceeds threshold
+* Alerts when strength imbalance exceeds threshold
 
-Lightweight and gym-ready design
+* Lightweight and gym-ready design
 
-Affordable (~$153.35 estimated cost)
+* Affordable (~$153.35 estimated cost)
 
 ## Built With
 
-Arduino IDE (C/C++)
+* Arduino IDE (C/C++)
 
-Next.js (for project website)
+* Next.js (for project website)
 
-Laser-cut wooden housing
+* Laser-cut wooden housing
 
-Conductive fabric gloves with embedded FSRs
+* Conductive fabric gloves with embedded FSRs
 
 ## Quick Start
 
-Wear gloves and connect arm sleeves.
+* Wear gloves and connect arm sleeves.
 
-Force sensors detect grip pressure in real-time.
+* Force sensors detect grip pressure in real-time.
 
-Wireless modules transmit and compare data.
+* Wireless modules transmit and compare data.
 
-LCD displays show force readings; LEDs alert imbalance.
+* LCD displays show force readings; LEDs alert imbalance.
 
 ## Future Improvements
 
-Fully enclosed, seamless glove design
+* Fully enclosed, seamless glove design
 
-App integration for detailed workout tracking
+* App integration for detailed workout tracking
 
-Enhanced wireless stability
+* Enhanced wireless stability
 
 ## Project Site
 
-🌐 View our website: https://eg-1004-force-glove-git-main-zachary-kublalsinghs-projects.vercel.app/
+* View our website: https://eg-1004-force-glove-git-main-zachary-kublalsinghs-projects.vercel.app/
 
-Our Preliminary Design Investigation: https://docs.google.com/document/d/e/2PACX-1vRwy0qC7yvXKEr_xmvD8Lt6eYzNQcgm_kPfO1IVbO_8o9KYg1JtiHrd4d5hgT1K4Q/pub
+* Our Preliminary Design Investigation: https://docs.google.com/document/d/e/2PACX-1vRwy0qC7yvXKEr_xmvD8Lt6eYzNQcgm_kPfO1IVbO_8o9KYg1JtiHrd4d5hgT1K4Q/pub
 
 ## Team
 
