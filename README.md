@@ -55,6 +55,7 @@ Enhanced wireless stability
 ## Project Site
 
 🌐 View our website: https://eg-1004-force-glove-git-main-zachary-kublalsinghs-projects.vercel.app/
+
 Our Preliminary Design Investigation: https://docs.google.com/document/d/e/2PACX-1vRwy0qC7yvXKEr_xmvD8Lt6eYzNQcgm_kPfO1IVbO_8o9KYg1JtiHrd4d5hgT1K4Q/pub
 
 ## Team
